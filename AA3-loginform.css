@@ -1,0 +1,133 @@
+body{
+    margin: 0 ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+/*header*/
+.head{
+    display: flex;
+    background-color: rgb(193, 191, 191);
+    padding: 8px;    
+    padding-left: 100px;
+}
+.logo{
+  cursor: pointer;
+}
+.logo img{
+    width: 26px;
+    height: 26px;
+}
+.logo-left{
+    display: flex;
+    color: rgb(4, 148, 4);
+    padding-left: 450px;
+    gap: 10px;
+}
+.letter{
+    color: rgb(84, 82, 82);
+    justify-content: center;
+    align-items: center;
+}
+.logo-left2{
+    display: flex;
+    color: rgb(212, 160, 63);
+    padding-left: 30px;
+    gap: 10px;
+}
+/* navbar */
+.navbar{
+    display: flex;
+    background-color:whitesmoke; 
+}
+.navbar-brand img{
+    width: 30px;
+    height: 30px;
+}
+.navbar-brand{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+    font-style:oblique;
+    font-variant: small-caps;
+    font-size: x-large;
+}   
+/* navbar-menu */
+.navbar-nav{
+    padding-left: 80px;
+}
+.blue{
+  color: rgb(10, 10, 221);
+}
+/* search bar */
+.navbar-search{
+    padding-left: 140px;
+
+}
+
+/* login form */
+body {
+    background-color: #344a72;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .login-box {
+    width: 360px;
+    height: 310px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+    margin-top: 90px;
+  }
+  
+  h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  h4 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 3px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  }
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+  p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .para-2 {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: -10px;
+  }
+  .para-2 a {
+    color: #49c1a2;
+  }
+  
+  
